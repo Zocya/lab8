@@ -19,5 +19,6 @@ public class Device {
     private int length;
     private Purpose purpose;
     private int height;
+    private int id;
 
 }
