@@ -1,0 +1,9 @@
+controller\DeviceController.class
+models\Device.class
+models\Flash.class
+enums\Country.class
+models\Lenz.class
+org\example\App.class
+manager\DeviceManager.class
+enums\Purpose.class
+models\Camera.class
